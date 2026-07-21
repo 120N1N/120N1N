@@ -168,26 +168,6 @@ Currently, my focus is strengthening my skills in programming, Linux environment
 
 ---
 
-# 🧪 Home Lab
-
-My personal learning environment includes:
-
-- Kali Linux
-- Ubuntu
-- Windows 11
-- VirtualBox
-- Docker
-
-Practice environments:
-
-- OWASP Juice Shop
-- DVWA
-- Metasploitable 2
-- TryHackMe Labs
-- Hack The Box Labs
-
----
-
 # 📂 Featured Projects
 
 ## 🏢 Enterprise Helpdesk Ticketing System
@@ -225,37 +205,6 @@ Authentication system implementing:
 ## 📊 Log Analyzer
 
 Tool for analyzing system logs and detecting suspicious activities.
-
----
-
-# 📖 Learning Resources
-
-- OWASP
-- MITRE ATT&CK
-- PortSwigger Web Security Academy
-- TryHackMe
-- Hack The Box
-- Cisco Learning Network
-- Linux Documentation
-- OverTheWire
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
